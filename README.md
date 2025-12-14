@@ -1,6 +1,6 @@
 
-# 🌐 SFH / DFH — Why You Still Need a “Main Site” (Even If the Stack Is Separate)
-### A human-friendly repo explaining how the main website + the 10 anchors + sitemap all link together
+# 🌐 SFH / DFH — Why You Still Need a “Main Site” (Even though the 5 or 10 anchor Stack Is Separate)
+### A human-friendly repo explaining how the main website + the 10 anchors explains how all links together
 
 SFH (Semantic First-Hop) / DFH (Deterministic First-Hop) is **a machine-readable grounding layer**, not a human website.
 
@@ -25,7 +25,7 @@ This repo explains:
 - Why the **stack is separate**
 - How the **stack points back to the main site**
 - How the **10 anchors connect together**
-- Why the **sitemap is the “map of everything”** machines can follow
+- Why the **sitemap anchor is the “map of everything”** machines can follow
 
 ---
 
@@ -84,7 +84,6 @@ AI can’t rely on that chaos as a stable starting point.
 
 So the SFH/DFH stack lives separately at:
 
-```txt
 https://yourdomain.com/.well-known/stack
 That file is meant to be:
 
