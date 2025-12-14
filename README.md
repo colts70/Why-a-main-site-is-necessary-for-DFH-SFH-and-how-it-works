@@ -1,5 +1,4 @@
-# Why-a-main-site-is-necessary-for-DFH-SFH-and-how-it-works
- Why You Still Need a “Main Site” (Even though the Stack Is Separate)
+
 # 🌐 SFH / DFH — Why You Still Need a “Main Site” (Even If the Stack Is Separate)
 ### A human-friendly repo explaining how the main website + the 10 anchors + sitemap all link together
 
