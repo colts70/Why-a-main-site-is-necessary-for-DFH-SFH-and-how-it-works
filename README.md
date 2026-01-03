@@ -1,19 +1,19 @@
 
-# 🌐 SFH / DFH — Why You Still Need a “Main Site” (Even though the 5 or 10 anchor Stack Is Separate)
+# 🌐 HESS/ DFH — Why You Still Need a “Main Site” (Even though the 5 or 10 anchor Stack Is Separate)
 ### A human-friendly repo explaining how the main website + the 10 anchors explains how all links together
 
 SFH (Semantic First-Hop) / DFH (Deterministic First-Hop) is **a machine-readable grounding layer**, not a human website.
 
 But here’s the part that confuses people:
 
-✅ **The SFH/DFH layer is separate from your website**  
+✅ **The HESS/DFH layer is separate from your website**  
 ✅ **…and you STILL need a real website to point back to**  
 Because humans (and businesses, and buyers, and press, and regulators, and partners) need a **human-readable home** that matches the claims the machine layer is making.
 
 Think of it like this:
 
 - **Main website** = the *city* people live in (human navigation + trust)
-- **SFH/DFH stack** = the *street signs + address registry* (machine navigation + deterministic first-hop)
+- **HESS/DFH stack** = the *street signs + address registry* (machine navigation + deterministic first-hop)
 
 ---
 
@@ -31,7 +31,7 @@ This repo explains:
 
 # 1) Why you still need a main site
 
-SFH/DFH is *not* meant to replace your website.
+HESS/DFH is *not* meant to replace your website.
 
 A domain needs a human-facing site because:
 
@@ -68,7 +68,7 @@ That circular reinforcement is **how authority forms**.
 
 ---
 
-# 2) Why the SFH/DFH layer is separate from the main site
+# 2) Why the HESS/DFH layer is separate from the main site
 
 Because websites are messy.
 
@@ -82,7 +82,7 @@ Websites change constantly:
 
 AI can’t rely on that chaos as a stable starting point.
 
-So the SFH/DFH stack lives separately at:
+So the HESS/DFH stack lives separately at:
 
 https://yourdomain.com/.well-known/stack
 That file is meant to be:
@@ -298,7 +298,7 @@ Copy code
 }
 8) Example: the sitemap index (shows how “everything” becomes discoverable)
 xml
-Copy code
+
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
